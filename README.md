@@ -7,7 +7,7 @@ Este repositório é usado para guardar minha aulas e projetos da matéria de __
 > This repository is used for save my class and project of __Mobile Programming__ subject 📱
 
   Este projeto usa: | This project use:
-  - __Java__
+  - __React-Native__
 
 <!---
 MdevSs/MdevSs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
